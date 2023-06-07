@@ -1,0 +1,20 @@
+git --version
+git config --global user.name "{Enter Your Name}"
+git config --global user.email "{Enter Your Email}"
+
+git config --global user.email - [To Check Your Registered Email Id]
+
+mkdir {FolderName} - To make a folder in your local device
+cd {FolderName} - to go to Created Folder
+
+git init - This code will setup an empty git respository 
+git status - 
+git add {files}
+git status - 
+git commit -m "{Initial Commit}"
+git log - Show you your log as per you added in repo (On Master Branch OR -)
+
+git status - Show the Info if you had made changes in file/code if you made changes - 
+
+Watched Video Till 13 Min -
+ Learn complete Git and Github in 1 video | Open-source Contribution | Linux commands & tricks By Anuj Bhaiya

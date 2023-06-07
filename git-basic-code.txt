@@ -1,0 +1,12 @@
+Git Command	GitHub Action	Explanation
+git init =	Create a new repository	Initializes a new Git repository locally.
+git clone <repository_url> = 	Clone a repository	Creates a local copy of a remote repository.
+git add <file(s)> =	Stage changes	Stages file(s) for inclusion in the next commit.
+git commit -m "Commit message" = 	Commit changes	Records the staged changes as a new commit.
+git push =	Push changes	Uploads local commits to a remote repository (GitHub).
+git pull =	Pull changes	Fetches changes from a remote repository and merges them.
+git branch =	List branches	Lists all branches in the repository.
+git checkout = <branch_name>	Switch branches	Switches to the specified branch.
+git merge = <branch_name>	Merge branches	Combines changes from the specified branch into the current branch.
+git status =	View repository status	Displays the current state of the repository.
+git log	= View commit history	Shows a detailed history of commits in the repository.
