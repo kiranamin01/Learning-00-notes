@@ -2,5 +2,46 @@
 22/06/2023 - Build a small website by learning JS by project 
 23/06/2023 - Learned about Nav-bar and build responsive Nav-bar
 24/06/2023 - Learned about DOM and made a FAQ page / accordian by making projects
+25/06/2023 - NONE
 
-  
+26/06/2023 - Javascript Advance Crash Course By Sheryians Coding School
+
+ES5 vs ES6 
+ES5 ( var ) vs ES6 ( let , const )
+
+let const - uses braces scoped method
+var - uses function scoped, it can be used in parent function
+var adds itself to the window 
+
+In JS lang , there are some features which are not available in JS , Therefore JS uses Browser feat from window properties/fnc
+
+Some of Popular Examples --
+alert , prompt , print , document , local storage , parent , scroll ... 
+
+var uses window , let dont 
+
+Browser Content API --
+
+STACK --
+
+heap Memory -- Intermidate Data stores in 
+
+Execution Content -- 
+=> [3] Imaginary Container -
+- 3) - Variables 
+- 2) - fnc
+- 1) - lexical environment - rules to access parent var in scope or not?
+
+how to copy reference values
+Example
+ 
+var a = [1,2,3,4,5,6]
+var b = [...a]
+
+truthy vs falsy 
+
+foreach forin forof do-while 
+
+functions
+
+ 
