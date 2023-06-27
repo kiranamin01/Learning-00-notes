@@ -35,13 +35,56 @@ Execution Content --
 how to copy reference values
 Example
  
+
+27/06/2023 - Javascript Advance Crash Course By Sheryians Coding School -- Remaining --
+
 var a = [1,2,3,4,5,6]
 var b = [...a]
 
-truthy vs falsy 
+truthy vs falsy -- Different from True/False 
+- Falsy - Value - undefined , null , NaN , 0 , document.all
 
-foreach forin forof do-while 
+switch - ( Not Use )
 
-functions
+forEach forIn forof do-while 
+
+ForEach works in arrays , doesn't change default value make a temporary copy of arrays 
+
+Examples -- forEach --
+a.forEach(function(val){
+ console.log(val+2);
+});
+
+forIn works in object , 
+Examples -- forIn --
+for(var key in obj){
+  console.log(key, obj[key]);
+}
+
+do while - You have to check conditional first time only,
+
+
+ Callback functions--
+ 
+ setTimeout (function(){
+  console.log("")
+ },2000)
+ 
+ 
+ first classes Functions --
+ 
+ 
+ Everything in JS is object
+ 
+ var arr = [1,2,3,4] 
+ 
+ Delete object key -
+ delete a.age 
+ 
+ Food-MENU- JS-Project -- 27-06-2023
+ 
+ 
+ 
+ 
 
  
