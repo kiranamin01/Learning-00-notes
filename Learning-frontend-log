@@ -4,6 +4,8 @@
 24/06/2023 - Learned about DOM and made a FAQ page / accordian by making projects
 25/06/2023 - NONE
 
+------------------------------------------------------------------------------------
+
 26/06/2023 - Javascript Advance Crash Course By Sheryians Coding School
 
 ES5 vs ES6 
@@ -35,6 +37,7 @@ Execution Content --
 how to copy reference values
 Example
  
+------------------------------------------------------------------------------------
 
 27/06/2023 - Javascript Advance Crash Course By Sheryians Coding School -- Remaining --
 
@@ -81,11 +84,19 @@ do while - You have to check conditional first time only,
  Delete object key -
  delete a.age 
  
+---------------------------------------------------------------
+
  -- 27-06-2023 -- Food-MENU- JS-Project 
  
+--------------------------------------------------------
+
  28/06/2023 - NONE
+
+-----------------------------------------------------------
+
  29/06/2023 - PC OFF - RESTARTING PROBLEMS - 
 
+------------------------------------------------------------------------
 
 -- 30-06-2023 --  golf-website-clone -- Learned Topics --
 
@@ -130,11 +141,35 @@ gsap.from("#page4 h1", {
     scrub: 3,
   },
 
---
+------------------------------------------------------------------
+1/07/2023 -- Made a 3D Animation Website With Project By Sheryians Coding School  ( DAY 1 )
+
+-- JS Topics --
+
+== function files(index) {
+  var data = ``;
+
+  return data.split("\n")[index];
+}
+
+== const frameCount = 67;
+
+const images = [];
+const imageSeq = {
+  frame: 1,
+};
+
+
+== function loco();
+
+== JS Library - Locomotive
+
+---------------------------------------------------------------------
+
+
+
 
  
  
  
- 
-
  
