@@ -1,0 +1,14 @@
+RoadMap for Front-End Developer 2023 ( July Edition ) By Parikh Jain YT
+-
+Focus on the Project bases learning by Doing task as per Project and having Individual concepts 
+-
+First Phase - HTML CSS JS 
+-
+Doing 4 Projects 
+- e-Commerece
+- Social Media Clone
+- OTT Platform
+- Portfolio 
+
+LINK : https://parikh.app/front-end-developer-roadmap-2023-with-resources
+
