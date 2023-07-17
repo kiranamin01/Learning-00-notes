@@ -1,4 +1,5 @@
 git --version
+git init 
 git config --global user.name "{Enter Your Name}"
 git config --global user.email "{Enter Your Email}"
 
@@ -22,6 +23,58 @@ git status - Show the Info if you had made changes in file/code if you made chan
 Watched Video Till 13 Min -
  Learn complete Git and Github in 1 video | Open-source Contribution | Linux commands & tricks By Anuj Bhaiya
 
-Watch Full Video - 16.07.2023
+Watch Full Video - 17.07.2023
 Master Git & GitHub in One Video: Learn the fundamentals with a Desi twist!
 Link => https://www.youtube.com/watch?v=YbX_5FTOgL8&pp=ygUJc2hlcnlpYW5z
+
+-- WHY -- 
+Central CodeBase - WRITE / READ Seamless 
+
+-- GIT & Github Difference --
+
+Git => main codebase software 
+Github => Same as git but in website 
+
+-- Features ---
+
+Git => 
+Branch 
+Push Request / Pull Request
+Fork 
+
+cd ( change directory )
+
+Working Area = Normal Folder & Files not cared by GIT
+Tracked Area = Normal Folder & Files known by GIT
+Staging Area = Folder and Files GIT will upload
+Git Directory = Folder and Files GIT uploaded by GIT
+
+-- How to Upload Build --
+
+git init - this code initialzed git / This code will setup an empty git respository 
+git status - 
+git add {files} / . : track files 
+git status - 
+git commit -m "{Initial Commit}"
+git remote add origin {link}
+git push -u origin master(branch)
+
+git reset - make a all files untracked
+
+git clone 
+git branch
+
+git pull origin master
+git push origin master
+
+git checkout - switch to branch
+git branch
+
+git branch {branch-name}
+
+git brnach --merged
+git merge {branch-name}
+
+
+
+
