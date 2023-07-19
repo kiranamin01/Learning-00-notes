@@ -3,5 +3,33 @@ ALl React Topics - Learning notes =>
 Entry Notes here --
 
 18/07/2023 - BASIC Beginner 
+
 19/07/2023 - Cheatsheet - https://upmostly.com/ultimate-reactjs-cheat-sheet
-            - 
+
+React JS Crash Course - https://www.youtube.com/watch?v=w7ejDZ8SWv8 BY TRAVERSY MEDIA  {25min} 
+
+
+  WHY REACT? 
+-- REUSEABLE COMPONENTS -
+-- VIRTUAL DOM - ITS DONT RELOAD PAGES - TO REFRESH
+-- JSX - DYNAMIC JS 
+
+SHOULD KNOW FIRST -
+-- DATA TYPES VARIABLES FUNCTIONS LOOPS 
+-- PROMISE ASYNC PROGRAMMING
+-- ARRAYS METHODS 
+-- FETCH API HTTPS REQUEST
+
+COMPONENTS - FUNC (NEW ) VS CLASSES 
+
+COMPONENTS HAVE STATE - RENDERS AND BEHAVES 
+-- App or global state refers to available in entire UI , not single component
+
+REACT HOOKS -
+
+-- useState
+-- useEffect
+-- useContext, useReducer , useRef   
+
+react developer tools 
+
