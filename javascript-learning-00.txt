@@ -77,3 +77,9 @@ do while - You have to check conditional first time only,
  
  Delete object key -
  delete a.age 
+
+19/07/2023 -- Learned Closure - https://www.youtube.com/watch?v=NbLG8yuh9PM
+-
+closures are defined as inner functions that have access to variables and parameters of outer function even after the outer function has returned. The below examples show the practical use of closures
+
+
