@@ -1,3 +1,7 @@
 ALl React Topics - Learning notes =>
 
 Entry Notes here --
+
+18/07/2023 - BASIC Beginner 
+19/07/2023 - Cheatsheet - https://upmostly.com/ultimate-reactjs-cheat-sheet
+            - 
