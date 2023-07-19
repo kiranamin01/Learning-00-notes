@@ -8,81 +8,14 @@
 
 26/06/2023 - Javascript Advance Crash Course By Sheryians Coding School
 
-ES5 vs ES6 
-ES5 ( var ) vs ES6 ( let , const )
-
-let const - uses braces scoped method
-var - uses function scoped, it can be used in parent function
-var adds itself to the window 
-
-In JS lang , there are some features which are not available in JS , Therefore JS uses Browser feat from window properties/fnc
-
-Some of Popular Examples --
-alert , prompt , print , document , local storage , parent , scroll ... 
-
-var uses window , let dont 
-
-Browser Content API --
-
-STACK --
-
-heap Memory -- Intermidate Data stores in 
-
-Execution Content -- 
-=> [3] Imaginary Container -
-- 3) - Variables 
-- 2) - fnc
-- 1) - lexical environment - rules to access parent var in scope or not?
-
-how to copy reference values
-Example
+-- put content on JS-learning-00
  
 ------------------------------------------------------------------------------------
 
 27/06/2023 - Javascript Advance Crash Course By Sheryians Coding School -- Remaining --
 
-var a = [1,2,3,4,5,6]
-var b = [...a]
 
-truthy vs falsy -- Different from True/False 
-- Falsy - Value - undefined , null , NaN , 0 , document.all
-
-switch - ( Not Use )
-
-forEach forIn forof do-while 
-
-ForEach works in arrays , doesn't change default value make a temporary copy of arrays 
-
-Examples -- forEach --
-a.forEach(function(val){
- console.log(val+2);
-});
-
-forIn works in object , 
-Examples -- forIn --
-for(var key in obj){
-  console.log(key, obj[key]);
-}
-
-do while - You have to check conditional first time only,
-
-
- Callback functions--
- 
- setTimeout (function(){
-  console.log("")
- },2000)
- 
- 
- first classes Functions --
- 
- 
- Everything in JS is object
- 
- var arr = [1,2,3,4] 
- 
- Delete object key -
- delete a.age 
+-- put content on JS-learning-00
  
 ---------------------------------------------------------------
 
