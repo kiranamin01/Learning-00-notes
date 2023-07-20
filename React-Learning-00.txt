@@ -36,5 +36,29 @@ react developer tools
 ---------------------------------------------------------------------------------------------------------
 20/07/2023 - REACT resource - https://youtube.com/shorts/AHKYi0S5Xd4?feature=share - SHORTS
 
--- Complete React JS Tutorial in Hindi with 5 Projects in 2023 - https://youtu.be/EHTWMpD6S_0 - 3.47 HR - 
+-- Complete React JS Tutorial in Hindi with 5 Projects in 2023 - https://youtu.be/EHTWMpD6S_0 - 3.47 HR - Watched till 1 HR
+
+- import React from "react"
+- import React from "react" Anymore - No need to write in React 17
+- JSX can be render single elements
+- Every tag need to be close ( <img src />  
+- React Follows camelCase in className
+
+-- Nested Components = Use Other Component inside a component 
+
+  Ex :
+         const MyName = () => {  
+          return <h1> Hey </h1>; }
+
+-Can be add on other by  <MyName/>
+
+-- Creating Object ( API )
+    
+    const ObjName = [{ }]
+
+----------------------------------------------------------------------------
+
+
+
+ 
 
