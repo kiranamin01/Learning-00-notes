@@ -58,6 +58,11 @@ react developer tools
 
 ----------------------------------------------------------------------------
 
+27/07/2023 - React JS Full Tutorial for Beginners | What is React JS? - Learn React JS in 9 Hours - { 1.17 HR }
+
+-- React.createElement("parentnode" , optional-properties , child node )
+-- Props - Only Info 
+
 
 
  
