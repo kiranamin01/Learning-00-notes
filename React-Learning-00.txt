@@ -74,6 +74,10 @@ react developer tools
 
 -----------------------------------------------------------------------------------
 
+29/07/2023 - React JS Full Course 2023 | Build an App and Master React in 1 Hour { Done } 
+
+-- Created a Movie Search App by OMDb API - The Open Movie Database - 
+
 
 
  
