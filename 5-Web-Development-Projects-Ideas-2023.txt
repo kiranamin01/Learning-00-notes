@@ -7,3 +7,6 @@ Portfolio Websites
 
 11/07/2023 - Clone - Apple Vision Website --
 15/07/2023 - Clone - Saas Product Modern UI --
+
+02/08/2023 - Projects Ideas => Pomodoro App , Movie Note Taking , YT Notes Taking App , Music Player , Engg Company , 3D 
+                               Unique Portfolio App - Switch Feature , Social Media Clone , E Commerce App , Food Map .. 
