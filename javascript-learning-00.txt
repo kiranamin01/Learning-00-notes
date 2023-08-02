@@ -83,3 +83,8 @@ do while - You have to check conditional first time only,
 closures are defined as inner functions that have access to variables and parameters of outer function even after the outer function has returned. The below examples show the practical use of closures
 
 
+01/08/2023 - Watched - Project 1: Modern Web Development | HTML | CSS | JS - Complete => HTML CSS
+
+02/08/2023 - Completed - Project 1: Modern Web Development | HTML | CSS | JS - ✅
+
+
