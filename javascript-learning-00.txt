@@ -87,4 +87,8 @@ closures are defined as inner functions that have access to variables and parame
 
 02/08/2023 - Completed - Project 1: Modern Web Development | HTML | CSS | JS - ✅
 
+03/08/2023 - JAVASCRIPT DOM - Complete - 
+=> Whats JS DOM ?
+=> 4 Pillars of DOM   { a. Selection Of an Element b. Changing HTML c. Changing CSS d. Event Listener }
+=> Multiple events
 
