@@ -92,6 +92,10 @@ react developer tools
 => Components Life Cycle = Hooks ( useEffect ) , Component Will Mount , Component Did Mount , Component Will Update   
 =>
 
+03/08/2023 - REACT.JS Topics to learn -  
+
+Component Basics 
+Conditional Rendering Learned = https://www.youtube.com/watch?v=YaHnww6I5Y8 - 5min only
 
 
 
