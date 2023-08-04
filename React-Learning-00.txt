@@ -97,6 +97,10 @@ react developer tools
 Component Basics 
 Conditional Rendering Learned = https://www.youtube.com/watch?v=YaHnww6I5Y8 - 5min only
 
+04/08/2023 - Conditional Rendering , useState , Hooks 
+
+- Building YT Clone => Build and Deploy a Modern YouTube Clone Application in React JS with Material UI 5 | RapidAPI => Covered 50min Only
+
 
 
  
