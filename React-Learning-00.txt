@@ -94,21 +94,22 @@ react developer tools
 
 03/08/2023 - REACT.JS Topics to learn -  
 
-Component Basics 
-Conditional Rendering Learned = https://www.youtube.com/watch?v=YaHnww6I5Y8 - 5min only
+             Component Basics 
+             Conditional Rendering Learned = https://www.youtube.com/watch?v=YaHnww6I5Y8 - 5min only
 
 04/08/2023 - Conditional Rendering , useState , Hooks 
 
-- Building YT Clone => Build and Deploy a Modern YouTube Clone Application in React JS with Material UI 5 | RapidAPI => Covered 50min Only
+          - Building YT Clone => Build and Deploy a Modern YouTube Clone Application in React JS with Material UI 5 | RapidAPI => Covered 
+           50min Only
 
 
-7/08/2023
+7/08/2023  - Building YT Clone => Build and Deploy a Modern YouTube Clone Application in React JS with Material UI 5 | RapidAPI => Covered 
+             1.57min Only
+           - All Hooks 
 
-- Building YT Clone => Build and Deploy a Modern YouTube Clone Application in React JS with Material UI 5 | RapidAPI => Covered 1.57min Only
-- All Hooks 
+8/08/2023  - Master Complete React Hooks Tutorial in Hindi 🔥 Free Notes + Code By Thapa Technical
 
-8/08/2023 - 
-
-Master Complete React Hooks Tutorial in Hindi 🔥 Free Notes + Code By Thapa Technical
+9/08/2023  - React Course For Beginners - Learn React in 8 Hours - 
+           - Tenary Operators , State Hooks , CRUD App , UseEffect , Component Life Cycle , Fetch API , React Router DOM 
  
 
