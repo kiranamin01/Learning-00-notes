@@ -66,7 +66,7 @@ react developer tools
 -----------------------------------------------------------------------------------
 28/07/2023 - React JS Full Tutorial for Beginners | What is React JS? - Learn React JS in 9 Hours - { 2 HR }
 
--- Props - is an object . 
+-- Props - is an object. 
 
   -- Project 1 - Brand Page | 10 React Projects for Beginners -
   -- React JS Full Course 2023 | Build an App and Master React in 1 Hour {Intro} 
@@ -82,14 +82,14 @@ react developer tools
 01/08/2023 - REACT.JS Topics to learn - 
 
 => Understand Folder Structures / Basics of REACT
-=> Styling from CSS , frameworks - Styled Components
+=> Styling from CSS, frameworks - Styled Components
 => Conditional Rendering
 => iteration rendering
-=> import External Data
-=> Routing in ReactJS = ReactRouterDOM - Managing Routing , Nesting , Dynamic Paramaters , Conditional Route , Middleware Routing
-=> State Management = ReDUX , Content API
+=> Import External Data
+=> Routing in ReactJS = ReactRouterDOM - Managing Routing, Nesting, Dynamic Parameters, Conditional Route, Middleware Routing
+=> State Management = ReDUX, Content API
 => Fetch API = 
-=> Components Life Cycle = Hooks ( useEffect ) , Component Will Mount , Component Did Mount , Component Will Update   
+=> Components Life Cycle = Hooks ( useEffect ), Component Will Mount, Component Did Mount, Component Will Update   
 =>
 
 03/08/2023 - REACT.JS Topics to learn -  
@@ -97,7 +97,7 @@ react developer tools
              Component Basics 
              Conditional Rendering Learned = https://www.youtube.com/watch?v=YaHnww6I5Y8 - 5min only
 
-04/08/2023 - Conditional Rendering , useState , Hooks 
+04/08/2023 - Conditional Rendering, useState, Hooks 
 
           - Building YT Clone => Build and Deploy a Modern YouTube Clone Application in React JS with Material UI 5 | RapidAPI => Covered 
            50min Only
@@ -110,6 +110,12 @@ react developer tools
 8/08/2023  - Master Complete React Hooks Tutorial in Hindi 🔥 Free Notes + Code By Thapa Technical
 
 9/08/2023  - React Course For Beginners - Learn React in 8 Hours - 
-           - Tenary Operators , State Hooks , CRUD App , UseEffect , Component Life Cycle , Fetch API , React Router DOM 
- 
+           - Ternary Operators, State Hooks, CRUD App, UseEffect, Component Life Cycle, Fetch API, React Router DOM 
+
+
+---------------------------------------------------------------------------------------
+ 13/12/2023 - REACT MOST IMP CONCEPTS NEED TO KNOW 
+
+=> JS : Array, Arrow Fncs, Objects, Maps, Filter Reduce, Mutability, and immutability DESTRUCTURING 
+=> Components, Data Usage, JSX DataFlow, Props, State, Effect 
 
