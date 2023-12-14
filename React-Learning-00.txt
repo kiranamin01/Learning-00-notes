@@ -89,7 +89,7 @@ react developer tools
 => Routing in ReactJS = ReactRouterDOM - Managing Routing, Nesting, Dynamic Parameters, Conditional Route, Middleware Routing
 => State Management = ReDUX, Content API
 => Fetch API = 
-=> Components Life Cycle = Hooks ( useEffect ), Component Will Mount, Component Did Mount, Component Will Update   
+=> Components Life Cycle = Hooks ( useEffect), Component Will Mount, Component Did Mount, Component Will Update   
 =>
 
 03/08/2023 - REACT.JS Topics to learn -  
@@ -118,4 +118,9 @@ react developer tools
 
 => JS : Array, Arrow Fncs, Objects, Maps, Filter Reduce, Mutability, and immutability DESTRUCTURING 
 => Components, Data Usage, JSX DataFlow, Props, State, Effect 
+
+--------------------------------------------------------------------------------------------
+
+14/12/2023 - 🚀🔥 Complete React & Redux Tutorial (2023) with Projects | Notes | Free Certification = 8.38.00 
+
 
