@@ -15,4 +15,4 @@ Portfolio Websites
 
 1/03/2024 - (Fix-my-routine ) Make App which helps to be productive in All ways - Should have Complete Features in Single App
 
-4/03/2024 - App in which you will find all tools/Extension/website in search - it will have categories , search by content , should have refer videos , able to add tools/...  
+4/03/2024 - App in which you will find all tools/Extension/website in search - it will have categories , search by content , should have refer videos , able to add tools/...  ( Tools working on freemium paid has limit you can mention )
