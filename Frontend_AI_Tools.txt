@@ -1,0 +1,17 @@
+=> V0 ( by Vercel ) - get website UI by just prompt {_https://v0.dev/_}
+=> Readme ( easiest way to create a readme file )
+=> <svg> grabber - you can get SVG File 
+=> Color Picker by Fardos - pick color with suggestions
+
+=> Galileo 1.0 - create UI for App ( Free )
+
+=> Public API - for gettting API which are (FREE) can used on projects  
+=> magicpattern.design/tools - Design Color helper tools
+
+=> Sapiens Character Builder -  Free and easily build characters in seconds. {_https://sapiens.ui8.net/8m4c8w6 }
+
+* => thestocks.im - All in ONE App - complete stock of tools you need *
+
+=> Postman Flows - Able to create flows chart to checks API before building App 
+
+=> Visme.co - Create animated landing pages ( contact info page ) 
