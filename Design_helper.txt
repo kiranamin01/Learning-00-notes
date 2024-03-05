@@ -1,0 +1,11 @@
+Color to use instead of black 
+
+#101720 midnight blue
+#011222 deep navy blue
+#171717 charcoal grey
+#020d19 rich black
+#0c0c0c oil black
+#0d1717 dark slate gray
+#0b1215 obsidian
+
+----------------------------------------------------
