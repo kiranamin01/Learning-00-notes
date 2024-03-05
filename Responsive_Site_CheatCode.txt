@@ -1,0 +1,18 @@
+PX - is fix across device size 
+% - depend upon screen size ( till parent size )
+vw , vh - not depend on parent container will size according to screen size 
+vmin , vmax
+
+flex directions 
+- display in flex
+- align item (Y) justify ( X ) axis 
+- flex directions - row /column 
+- flex wrap - wrap inside by changing properties 
+
+CSS Media Quries 
+
+- All design ur site to have mobile screen device first 
+
+- @media (max-width) {
+    
+}
