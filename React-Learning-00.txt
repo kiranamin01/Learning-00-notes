@@ -123,6 +123,15 @@ react developer tools
 
 14/12/2023 - 🚀🔥 Complete React & Redux Tutorial (2023) with Projects | Notes | Free Certification = 8.38.00 
 
-15/12/2023 - None
+15/12/2023 - None 
+
+7/03/2024 - REACT Learning - 
+
+- Layout approaches ( responsive ) YT Clone 
+use Flex div for responsive 
+Create Folder for component , BrowserRoute , routes , sidebar , HomePage -> 50 content / videos , 
+API introduced , API KEY , { if else statement / ( ? : ) } replaced content rename * API - data converter use digits ko short ,
+category wise API use kiya , Video Player build , each videos data replaced , Resposnive each devices 
+
 
 
