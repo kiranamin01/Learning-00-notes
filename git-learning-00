@@ -18,6 +18,14 @@ git log - Show you your log as per you added in repo (On Master Branch OR -)
 git status - Show the Info if you had made changes in file/code if you made changes - 
 
 
+existing build : update 
+git status
+git add .
+git commit -m "Update project with latest changes"
+git push origin main {replace main with branch name }
+
+
+
 // -------------------------------  Learning Progress ------------------------------------------
 
 Watched Video Till 13 Min -
