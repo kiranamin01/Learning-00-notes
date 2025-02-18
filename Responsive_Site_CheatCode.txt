@@ -16,3 +16,13 @@ CSS Media Quries
 - @media (max-width) {
     
 }
+
+GRID 
+grid-area-selection {
+a a a m
+a b b m }
+
+
+Tailwindcss 
+
+grid-column , grid-rows , span-col- span-row- 
