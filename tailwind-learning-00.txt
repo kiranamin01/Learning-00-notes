@@ -1,3 +1,32 @@
 Put ALl tailwind-css notes / cheatsheet
 
-19/07/2023 => Tailwind CSS Full Course for Beginners | Complete All-in-One Tutorial | 3 Hours =>  1 HR Complete
+19/07/2023 => Tailwind CSS Full Course for Beginners | Complete All-in-One Tutorial | 3 Hours =>  1 HR Complete <br>
+
+Tailwind CSS v4 Full Course 2025
+
+Time Stamps 👇
+00:00 — Intro
+02:39 — Introduction to Tailwind CSS
+04:35 — How does Tailwind work?
+07:34 — Tailwind Fundamentals Understanding the Basics
+15:07 — The Just-In-Time (JIT) Compiler: Tailwind’s Superpower
+17:08 — Layouts & Flex-box: Structuring Your UI
+23:25 — Media Queries & Responsive Design 
+	- sm: md: lg: , max-sm 
+
+29:46 — Dark Mode in Tailwind 
+	dark: , toggle 
+
+34:41 — Custom Styles & Reusability 
+	@theme { --color-chesnut:} {--font-custom:}
+	@layers components { .card {@apply } }
+	@layers bases
+	shadcn/ui - components
+
+46:34 — Tailwind CSS Tips & Tricks
+	accent-colour
+	Fluid Texts - text-[min(10vw,70px)]
+	File - <label><input type:file file: >
+	Highlight - selection:
+	Less JS - open: , caret-color
+	before: active: , gradients animations 
