@@ -1,6 +1,15 @@
+
 **SHERYIANS CODING SCHOOL**
 
 JS_BASICS_QUESTIONS
+
+
+Create a function that takes another function as an argument and calls it after 3 seconds (HOF + Callback)
+Implement your own version of map() as a higher-order function
+Write a function that uses closures to create a counter.
+Implement a function that limits how many times another function can be called (Closure + HOF).
+Implement your own version of filter() as a higher-order function.
+
 
 1. Age Category Message: Ask the user for their age. If they are under 18, print “You are a minor.” If they are between 18 and 60, print “You are an adult.” If they are above 60, print “You are a senior citizen.”
 
