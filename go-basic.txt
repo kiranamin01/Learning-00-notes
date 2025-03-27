@@ -1,0 +1,24 @@
+// GO - BACKEND LANGUAGE -  BUILDING TO_DO_TASK APP 
+
+// GO vs JS - Comparison.md file => https://github.com/burakorkmez/react-go-tutorial/blob/master/COMPARISONS.md
+
+go mod init <module_name> = npm init
+go run <main_file.go> = npm start
+go get <package_name> = npm install <package_name>
+go.mod file = 
+go mod tidy = npm install
+json.Marshal() = JSON.stringify()
+json.Unmarshal() = JSON.parse()
+
+air = nodemon
+go get github.com/joho/godotnev  = dontenv
+Fiber = Express.js
+ <= Express.js Middleware
+ <=Route Handling 
+
+print => string 
+install => Fiber
+
+
+
+
