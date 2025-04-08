@@ -1,1 +1,16 @@
-07/03/25 - DAY 02 - DSA BASIC 
+07/03/25 - DAY 02 - DSA BASIC
+
+
+TOPICS NEED TO COVER 
+
+Nested Loops -
+Arrays -
+Arrays Mastering
+Arrays Mastering part 2
+Advance Arrays
+Sorting Arrays
+Time Space Complexitiy
+Multi Dimensional Array
+Problems on Matrix
+Strings
+
