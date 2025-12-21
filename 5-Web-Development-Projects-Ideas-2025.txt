@@ -1,3 +1,33 @@
+21-12-2025 / Two Projects of FULL STACK _ ALL Learnings in Projects
+Here's a summary of the project features: video link : https://www.youtube.com/watch?v=dfqz4o1QPCk
+
+Project 1: Video Streaming Platform (17:39-19:06)
+
+User Authentication: Email, Google, GitHub OAuth, phone number.
+Video Management: Uploading, management, and streaming with multiple qualities (HLS/DASH).
+Live Streaming: Capability for live broadcasts.
+Engagement Features: Subscriptions, follows, comments, likes, shares.
+Content Discovery: Watch history, playlists, search, and recommendation systems.
+Creator Tools: Dashboard with analytics, monetization options (ads, subscriptions, pay-per-view).
+Real-time Interaction: Live chat during streaming, notification system.
+Content Moderation.
+Project 2: SaaS Project Management Platform (19:10-20:05)
+
+Architecture: Multi-tenant architecture.
+User Authentication: Standard user authentication.
+Task Management: Projects, tasks, subtasks, dependencies.
+Views: Kanban board, list view, calendar view.
+Collaboration: Real-time collaboration, file attachments, rich text editor, comments, mentions.
+Planning & Tracking: Time tracking, estimates, sprint planning, reports.
+Integrations: Slack, GitHub, Google Calendar.
+Notifications: Email and push notifications, activity feeds, audit logs.
+Billing & Analytics: Subscription billing, admin panel, usage analytics.
+
+
+
+
+__________________________________________________________________________________________________
+
 2025 - 02 - 28 
 
 Alright, let's merge the "YouTube Content Summarizer & Action Item Extractor" and the "Focused YouTube Learning Playlist Creator" into a powerful, unified application and add features based on common user problems.
