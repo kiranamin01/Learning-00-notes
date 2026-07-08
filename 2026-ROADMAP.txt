@@ -4,3 +4,4 @@ Sharing plans to start dev journey again ~ Daily Learning until 2027 ( 183 Days 
 3 JULY ~ Pickup one projects start dev
 5 JULY ~ Sunday OFF - restart old projects
 7 JULY - Crash course - claude code for dev
+8 JULY ~ setup ubuntu dev setup , 50-Days roadmap done
